@@ -1,3 +1,5 @@
+"use client";
+
 import { useState } from 'react';
 import Link from 'next/link';
 import { ShoppingBagIcon, UserIcon, Bars3Icon, XMarkIcon, MagnifyingGlassIcon } from '@heroicons/react/24/outline';
